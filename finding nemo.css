@@ -1,0 +1,20 @@
+.nemocard{
+    text-align: center;
+    background-color: orange;
+    width:325px;
+    height:600px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+    text-size:20px;
+    color:white;
+}
+.button{
+     color:orange;
+}
+.body{
+    text-align: center;
+}
+.imagenemo{
+    border-radius: 15px;
+}
